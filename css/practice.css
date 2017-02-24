@@ -1,0 +1,57 @@
+p {
+    padding:10px;
+    align-content: center;
+}
+div.ex1 {
+    width: 500px;
+    margin: auto;
+    padding:10px;
+    align-content: center;
+
+}
+div.ex2 {
+    width: 500px;
+    margin: auto;
+    padding:10px;
+    align-content: center;
+
+}
+div.ex3 {
+    width: 500px;
+    margin: auto;
+    padding:10px;
+    align-content: center;
+
+}
+div.ex4 {
+    width: 500px;
+    margin: auto;
+    padding:10px;
+    align-content: center;
+
+}
+div.one {
+    background-color: lightblue;
+    width: 100px;
+    height:200px;
+    padding: 25px;
+}
+
+div.two {
+    background-color: lightblue;
+    width: 100px;
+    height:200px;
+    padding: 25px;
+}
+div.three {
+    background-color: lightblue;
+    width: 100px;
+    height:200px;
+    padding: 25px;
+}
+div.four{
+    background-color: lightblue;
+    width: 100px;
+    height:200px;
+    padding: 25px;
+}
